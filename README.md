@@ -1,2 +1,2 @@
-# janetawino
-Hello world, this is my profile
+
+Hi there, I'm Janet Awino
