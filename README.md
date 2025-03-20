@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janet Awino</h1>
-<h3 align="center">I am a software developer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 📫 How to reach me **awino.jannett@gmail.com**
 
