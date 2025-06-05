@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Janet Awino</h1>
+<h1 align="center">Hi there👋</h1>
 
 - 📫 How to reach me **awino.jannett@gmail.com**
 
