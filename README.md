@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋</h1>
 
-📫 How to reach me **awino.jannett@gmail.com**
+- 📫 How to reach me **awino.jannett@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
